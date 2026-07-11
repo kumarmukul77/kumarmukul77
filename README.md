@@ -14,7 +14,7 @@
 - 💻 Full Stack Developer
 - 🌱 Currently learning System Design & Deep Learning
 - 🔥 Love solving Data Structures & Algorithms problems
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: **mukulkumarxyz@gmail.com**
 
 ---
 
@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=kumarmukul77&theme=tokyonight"/>
 
 </p>
 
@@ -68,7 +68,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kumarmukul77&theme=tokyonight&margin-w=15"/>
 
 </p>
 
@@ -97,7 +97,7 @@ Optimized DSA solutions categorized by topic.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarmukul77&theme=tokyo-night"/>
 
 </p>
 
