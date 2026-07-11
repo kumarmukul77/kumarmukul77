@@ -133,6 +133,13 @@ Optimized DSA solutions categorized by topic.
 
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kumarmukul77/kumarmukul77/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 ---
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+
+</p>
+
