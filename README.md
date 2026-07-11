@@ -93,14 +93,15 @@ Optimized DSA solutions categorized by topic.
 
 ---
 
-# 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarmukul77&theme=tokyo-night"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kumarmukul77/kumarmukul77/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kumarmukul77/kumarmukul77/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/kumarmukul77/kumarmukul77/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
-
 ---
 
 # 🌐 Connect With Me
@@ -133,13 +134,4 @@ Optimized DSA solutions categorized by topic.
 
 </p>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kumarmukul77/kumarmukul77/output/github-contribution-grid-snake.svg" alt="Snake animation" />
----
-
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
-
-</p>
 
